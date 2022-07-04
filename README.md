@@ -37,11 +37,11 @@ There is also a Google Maps API key which will need to be generated and added to
 
 ## Screenshots
 
-![App Screenshot](./screenshots/login.PNG)
+<img src="./screenshots/login.PNG" width="400">
 
-![App Screenshot](./screenshots/map.PNG)
+<img src="./screenshots/map.PNG" width="400">
 
-![App Screenshot](./screenshots/dashboard.PNG)
+<img src="./screenshots/dashboard.PNG" width="400">
 
 ## License
 
