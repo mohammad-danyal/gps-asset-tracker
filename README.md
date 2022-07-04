@@ -1,7 +1,7 @@
 
-# LoRaWAN Based GPS Asset Tracking System
+# LPWAN Based GPS Asset Tracking System
 
-This is an implementation of a LoRaWAN based GPS tracking system that collects real time data from a low pwered IoT GPS tracker and displays useful data for an end user.
+This is an implementation of a LPWAN based GPS tracking system that collects real time data from a low powered IoT GPS tracker and displays useful data for an end user.
 
 It is part of the submission of my final year project for my Computer Science BSc (Hons) in which I investigated the feasibility of LPWANs for a asset tracking and compared my results to current market competitors. 
 ## Features
