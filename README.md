@@ -35,6 +35,13 @@ To run this project, you will need to add the following environment variables to
 
 There is also a Google Maps API key which will need to be generated and added to the app.json file.
 
+## Screenshots
+
+![App Screenshot](./screenshots/login.PNG)
+
+![App Screenshot](./screenshots/map.PNG)
+
+![App Screenshot](./screenshots/dashboard.PNG)
 
 ## License
 
